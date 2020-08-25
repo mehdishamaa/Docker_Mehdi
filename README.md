@@ -21,3 +21,22 @@ The string of numbers above is your Image ID. The message after the colon is you
 5) Finally, push the image to your repo using the push command:
 
 `docker push medimidi/docker_mehdi`
+
+
+
+
+### What is Docker?
+
+- Docker is a containerisation platform which allows developers to isolate their app from its environment
+
+- Docker containers encapsulate everything an application needs to run
+
+- Reduces the size of application and gives performance boost because there is no need to create a whole VM OS.
+
+### Why use Docker?
+
+- Reduce cloud spending
+
+- Much less heavy
+
+- Faster to deploy and provision - better for DevOps
