@@ -6,7 +6,7 @@
 
 `docker run -d -p 80:80 nginx`
 
-3) Run `docker ps` to indetify the image ID.
+3) Run `docker ps` to identify the image ID.
 
 4) Tag this to your Docker repo using the following command:
 
